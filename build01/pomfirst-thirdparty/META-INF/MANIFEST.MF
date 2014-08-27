@@ -12,9 +12,9 @@ Built-By: szarnyasg
 Tool: Bnd-0.0.357
 Bundle-Name: pomfirst-thirdparty
 Created-By: Apache Maven Bundle Plugin
-Build-Jdk: 1.7.0_45
+Build-Jdk: 1.7.0_67
 Bundle-Version: 1.0.0.SNAPSHOT
-Bnd-LastModified: 1389112070599
+Bnd-LastModified: 1409145081114
 Embed-Transitive: true
 Bundle-ManifestVersion: 2
 Embed-Dependency: plexus-utils
