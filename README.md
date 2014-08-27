@@ -1,6 +1,8 @@
 maven-tycho-thirdparty
 ======================
 
+![](https://travis-ci.org/szarnyasg/maven-tycho-thirdparty.svg?branch=master)
+
 Using third party dependencies in Eclipse plug-ins with Maven and Tycho.
 
 Source
